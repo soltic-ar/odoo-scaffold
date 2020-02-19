@@ -35,9 +35,9 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Holger Brunn <hbrunn@therp.nl>
-* Jairo Llopis <j.llopis@grupoesoc.es>
-* Richard deMeester <richard@willowit.com.au>
+* Gabriela River <regaby@gmail.com >
+* Pablo Rojas <rojaspablo88@gmail.com>
+* Federico Gregori <jfedericogregori@gmail.com>
 
 Maintainers
 ~~~~~~~~~~~
