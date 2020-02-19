@@ -1,3 +1,6 @@
+SOLTic S.R.L. Odoo Module
+==============
+
 .. image:: https://odoo-community.org/logo.png
    :alt: Odoo Community Association
    :target: https://odoo-community.org
