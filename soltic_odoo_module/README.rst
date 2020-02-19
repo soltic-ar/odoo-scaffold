@@ -3,14 +3,14 @@ EDIT: Odoo Module Name
 ==============
 
 .. image:: https://img.shields.io/badge/maturity-Beta-yellow.png
-    :target: https://odoo-community.org/page/development-status
+    :target: 
     :alt: Beta
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
-    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
-    :alt: License: AGPL-3
-.. image:: https://img.shields.io/badge/github-OCA%2Fpartner--contact-lightgray.png?logo=github
-    :target: https://github.com/OCA/partner-contact/tree/13.0/partner_contact_gender
-    :alt: OCA/partner-contact
+.. image:: https://img.shields.io/badge/license-LGPL--3-blue
+    :target: https://www.gnu.org/licenses/lgpl-3.0.html
+    :alt: License: LGPL-3
+.. image:: https://img.shields.io/badge/GitHub-GitHub%2Fsoltic--ar-lightgrey?logo=github
+    :target: 
+    :alt: github/soltic-ar
 
 EDIT: Summary of the functionalities of the module.
 
