@@ -3,13 +3,13 @@ EDIT: Odoo Module Name
 ==============
 
 .. image:: https://img.shields.io/badge/maturity-Beta-yellow.png
-    :target: 
+    :target: https://soltic.com.ar
     :alt: Beta
 .. image:: https://img.shields.io/badge/license-LGPL--3-blue
     :target: https://www.gnu.org/licenses/lgpl-3.0.html
     :alt: License: LGPL-3
 .. image:: https://img.shields.io/badge/GitHub-GitHub%2Fsoltic--ar-lightgrey?logo=github
-    :target: 
+    :target: https://github.com/soltic-ar
     :alt: github/soltic-ar
 
 EDIT: Summary of the functionalities of the module.
