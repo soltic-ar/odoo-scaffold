@@ -35,7 +35,7 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Gabriela River <regaby@gmail.com >
+* Gabriela Rivero <regaby@gmail.com >
 * Pablo Rojas <rojaspablo88@gmail.com>
 * Federico Gregori <jfedericogregori@gmail.com>
 
